@@ -16,6 +16,7 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
+*.psb
 
 # OS-specific
 .DS_Store
@@ -26,3 +27,5 @@ sysinfo.txt
 
 # Others
 .vscode/
+echo "Assets/StylizedWater2/" >> .gitignore
+echo "Assets/Malbers Animations/" >> .gitignore

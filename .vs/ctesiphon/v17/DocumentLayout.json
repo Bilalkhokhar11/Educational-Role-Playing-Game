@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ERPG\\ctesiphon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|d:\\erpg\\ctesiphon\\assets\\scripts\\raftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|d:\\erpg\\ctesiphon\\assets\\scripts\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\assetsstore\\proceed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\assetsstore\\proceed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\scripts\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\scripts\\initiatesusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initiatesusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\initiate ctesiphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\initiate ctesiphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\scripts\\polarissearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\polarissearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\scripts\\cameracontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA57153A-7444-2F0B-6740-24B940BE9226}|MalbersAnimations.csproj|D:\\ERPG\\ctesiphon\\assets\\malbers animations\\common\\scripts\\path constraint\\pathlink_spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA57153A-7444-2F0B-6740-24B940BE9226}|MalbersAnimations.csproj|solutionrelative:assets\\malbers animations\\common\\scripts\\path constraint\\pathlink_spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|D:\\ERPG\\ctesiphon\\assets\\scripts\\pausemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D466FCE-FB62-BA11-9B4D-33F06676C887}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaftController.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\RaftController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaftController.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\RaftController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaftController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:05:03.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "a.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\a.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\a.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\a.cs",
+              "RelativeToolTip": "Assets\\Scripts\\a.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:50:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proceed.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\AssetsStore\\Proceed.cs",
+              "RelativeDocumentMoniker": "Assets\\AssetsStore\\Proceed.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\AssetsStore\\Proceed.cs",
+              "RelativeToolTip": "Assets\\AssetsStore\\Proceed.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:21:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\b.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\b.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\b.cs",
+              "RelativeToolTip": "Assets\\Scripts\\b.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:50:44.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Initiate Ctesiphone.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Initiate Ctesiphone.cs",
+              "RelativeDocumentMoniker": "Assets\\Initiate Ctesiphone.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Initiate Ctesiphone.cs",
+              "RelativeToolTip": "Assets\\Initiate Ctesiphone.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:52:21.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitiateSusa.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\InitiateSusa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitiateSusa.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\InitiateSusa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitiateSusa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:48:15.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraController1.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\CameraController1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController1.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\CameraController1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:53:37.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolarisSearch.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\PolarisSearch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PolarisSearch.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\PolarisSearch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PolarisSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:50:52.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PauseMenuManager.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\PauseMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuManager.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Scripts\\PauseMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:29:17.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PathLink_Spline.cs",
+              "DocumentMoniker": "D:\\ERPG\\ctesiphon\\Assets\\Malbers Animations\\Common\\Scripts\\Path Constraint\\PathLink_Spline.cs",
+              "RelativeDocumentMoniker": "Assets\\Malbers Animations\\Common\\Scripts\\Path Constraint\\PathLink_Spline.cs",
+              "ToolTip": "D:\\ERPG\\ctesiphon\\Assets\\Malbers Animations\\Common\\Scripts\\Path Constraint\\PathLink_Spline.cs",
+              "RelativeToolTip": "Assets\\Malbers Animations\\Common\\Scripts\\Path Constraint\\PathLink_Spline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:01:40.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

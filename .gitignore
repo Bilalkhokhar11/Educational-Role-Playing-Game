@@ -29,3 +29,4 @@ sysinfo.txt
 .vscode/
 echo "Assets/StylizedWater2/" >> .gitignore
 echo "Assets/Malbers Animations/" >> .gitignore
+echo "Assets/MedievalKingdomUI/Artworks/Map_elements/World_map_8k.psb" >> .gitignore
